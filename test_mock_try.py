@@ -1,10 +1,6 @@
 import unittest
 import mock
 
-# import psycopg2
-
-# from mock_try import psycopg2
-# import mock_try
 from mock_try import data
 
 class TestMyFunc(unittest.TestCase):
